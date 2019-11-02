@@ -1,0 +1,50 @@
+.html_header_top.html_header_sticky #header.header-scrolled {-webkit-box-shadow: 0 0 transparent,0 0 transparent,0 5px 5px -4px rgba(0,0,0,.1);box-shadow: 0 0 transparent,0 0 transparent,0 5px 5px -4px rgba(0,0,0,.1);}
+#top #header .av-main-nav > li.pll-parent-menu-item span.avia-menu-text {border: 1px solid #b6b6b6;padding: 5px 8px;background: none;}
+#top #header .av-main-nav > li.pll-parent-menu-item ul.sub-menu, #top #header .av-main-nav > li.pll-parent-menu-item ul.sub-menu li a {background: none;border: none;}
+#top #header .av-main-nav > li.pll-parent-menu-item ul.sub-menu {top: 66%;left: -2px;}
+#top #header .av-main-nav > li.pll-parent-menu-item ul.sub-menu li a {font-size: 14px;}
+#featured-banner h1.av-special-heading-tag span {background: rgba(0,0,0,.53);padding: 0 10px;}
+ul#avia-menu {top: -10px;}
+li.pll-parent-menu-item a {line-height: 3.5 !important;height: auto !important;}
+#custom_html-2 {padding: 0;clear: none;float: right;top: 55px;right: 135px;line-height: normal;}
+#custom_html-2 p.mobile {color: #c1272d;font-style: italic;font-weight: 700;margin: 0;display: inline-block;margin-right: 5px;vertical-align: super;}
+#custom_html-2 .social {display: inline-block;}
+#custom_html-2 .social img {width: 20px;margin-left: 5px;}
+body#top #wnb-bar {box-shadow: none;background: #a51717;border: none;font-family: "montserrat","HelveticaNeue","Helvetica Neue","Helvetica-Neue",Helvetica,Arial,sans-serif;}
+#top #header .av-main-nav > li.pll-parent-menu-item ul.sub-menu {top: 90%;box-shadow: none;}
+#top #header .av-main-nav > li.pll-parent-menu-item ul.sub-menu li {width: auto;background: white;padding-top: 12px;min-width: 125px;}
+#top #header .av-main-nav > li.pll-parent-menu-item ul.sub-menu li:last-child {padding-bottom: 10px;}
+#top #header .av-main-nav > li.pll-parent-menu-item ul.sub-menu li a {padding: 0 15px;width: auto;margin: 0;line-height: 0 !important;}
+#surf-camp-and-bikes .flex_column h3.av-special-heading-tag {background: rgba(0,0,0,.54);padding: 20px 0;text-transform: uppercase;}
+a.readmore {padding: 7px 20px;display: inline-block;border: 1px solid #6e6e6e;color: #000;}
+#boards-and-suites .av_one_half section.av_textblock_section {padding: 30px 30px;border: 2px solid white;min-height: 260px;display: flex;flex-direction: column;justify-content: center;}
+#boards-and-suites .av_one_half section.av_textblock_section h3 {color: white;line-height: 30px;}
+#top #boards-and-suites .no_margin.av_one_half {width: 48%;background: linear-gradient(rgba(255,0,0,.45),rgba(255,0,0,.45));}
+#top #boards-and-suites .no_margin.av_one_half:last-child {margin-left: 50px;}
+#boards-and-suites .av_one_half section.av_textblock_section a.readmore, .full_section a.readmore {background: white;margin: 0 auto;border-radius: 5px;padding: 5px 20px;font-size: 12px;color: #e73541;font-weight: bold;text-decoration: none;-webkit-transition: all .15s ease-out;-moz-transition: all .15s ease-out;-o-transition: all .15s ease-out;-ms-transition: all .15s ease-out;transition: all .15s ease-out;}
+.full_section h2.av-special-heading-tag {font-size: 36px;}
+#top .full_section a.readmore {color: #38b8e5;text-decoration: none;}
+#boards-and-suites .av_one_half section.av_textblock_section a.readmore:hover, .full_section a.readmore:hover {background: #14a9cc;color: white !important;}
+#contact-us .flex_column.avia-link-column.avia-link-column-hover:hover {opacity: 1;}
+#contact-us #element_avia_1_1, #contact-us #element_avia_2_1, #contact-us #element_avia_3_1 {width: 32.3%;display: inline-block;clear: none;margin-left: 15px;}
+#contact-us #element_avia_1_1 {margin-left: 0;}
+#contact-us input[type="text"], #contact-us textarea {font-family: "montserrat","HelveticaNeue","Helvetica Neue","Helvetica-Neue",Helvetica,Arial,sans-serif;font-size: 15px;color: #515151 !important;font-weight: 400;}
+#contact-us input.button {float: right;font-family: "montserrat","HelveticaNeue","Helvetica Neue","Helvetica-Neue",Helvetica,Arial,sans-serif;font-size: 15px;background: #d9e021;padding: 13px 30px;border-radius: 5px;}
+#contact-us .container {max-width: 100%;width: 1190px;}
+#footer {background: #62a5d3;border: none;}
+#footer .container {width: 1190px;max-width: 100%;margin: 0 auto;}
+#footer .widget, div#footer .widget a {text-align: center;color: white;font-family: "montserrat","HelveticaNeue","Helvetica Neue","Helvetica-Neue",Helvetica,Arial,sans-serif;font-size: 14px;}
+#footer .widget img {height: auto;width: 40px;}
+#footer #custom_html-4 img {margin: 17px 0 10px;}
+#footer #custom_html-5 img {margin: 10px 0 10px;}
+#footer .footer_social img {width: 32px;}
+#socket .copyright {width: 100%;text-align: center;font-size: 14px;}
+@media only screen and (max-width : 1200px) {}
+@media only screen and (max-width : 1024px) {#top #av-burger-menu-ul {padding: 0px 0 90px 0px !important;}
+	nav.main_menu li.pll-parent-menu-item span.avia-menu-text {border: 1px solid #b6b6b6;padding: 5px 8px;background: none;}
+	#top #boards-and-suites .no_margin.av_one_half {}
+	#top #boards-and-suites .no_margin.av_one_half:last-child {margin-left: 10px;}}
+@media only screen and (max-width : 768px) {}
+@media only screen and (max-width : 480px) {#top #boards-and-suites .no_margin.av_one_half {width: 100%;}
+	#top #boards-and-suites .no_margin.av_one_half:last-child {margin: 0px;}}
+@media only screen and (max-width : 320px) {}
